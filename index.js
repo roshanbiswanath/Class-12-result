@@ -5,14 +5,25 @@ let avgMarX = 0
 let Xcontrib
 let subjectsAddedList = []
 let subjectParam = {
+    "Accountancy" : 80,
+    "Biotechnology" : 70,
     "Biology" : 70,
+    "Business Studies" : 80,
     "Chemistry" : 70,
     "Computer Science" : 70,
+    "Economics" : 80,
     "English" : 80,
+    "Geography" : 70,
+    "Hindi" : 80,
+    "History" : 80,
+    "Informaiton Practices" : 70,
+    "Applied Mathematics" : 80,
     "Math" : 80,
+    "Physical Education" : 70,
     "Physics" : 70,
-    "Physical Education" : 70
-
+    "Political Science" : 80,
+    "Psychology" : 70,
+    "Sociology" : 80
 }
 let wholeTable 
 
